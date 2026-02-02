@@ -37,6 +37,28 @@ The project answers 6 pivotal business questions:
 
 ---
 
+## 📊 Data Visualizations
+
+### 1. Monthly Sales & Order Trends
+![Monthly Trend](outputs/monthly_trend.png)
+
+### 2. Sales by Gender & Comparison
+![Sales by Gender](outputs/sales_by_gender.png)
+
+### 3. Order Status Breakdown
+![Order Status](outputs/order_status_breakdown.png)
+
+### 4. Top 5 Performing States
+![Top 5 States](outputs/top_5_states.png)
+
+### 5. Age & Gender Analysis
+![Age & Gender Analysis](outputs/age_gender_analysis.png)
+
+### 6. Sales by Channel
+![Sales by Channel](outputs/sales_by_channel.png)
+
+---
+
 ## 📈 Key Business Insights
 - **The Power User:** The highest value customer segment is **Adult Women (Age 30-49)** living in **Maharashtra, Karnataka, and Uttar Pradesh**.
 - **The Peak:** **March** stands out as the highest sales month, suggesting a successful end-of-quarter or seasonal campaign.
