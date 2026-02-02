@@ -1,6 +1,48 @@
-*.md
-!README.md
-
-#ignore outputs folder
+# Data Analysis Outputs
 outputs/
 
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Markdown (Owner preference: keep README/Project Details, ignore others if needed)
+# Currently ignoring all md except README as per your previous setup
+*.md
+!README.md
+project_detail.md
